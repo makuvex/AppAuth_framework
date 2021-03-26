@@ -1,0 +1,28 @@
+dependencies: \
+  /Users/makuvex7/Documents/test/AppAuth-iOS/Source/AppAuthCore/OIDAuthorizationService.m \
+  /Users/makuvex7/Documents/test/AppAuth-iOS/build/AppAuth.build/Release-iphoneos/AppAuth_iOS.build/module.modulemap \
+  /Users/makuvex7/Documents/test/AppAuth-iOS/Source/AppAuthCore/OIDAuthorizationService.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.2.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.2.sdk/usr/include/mach-o/dyld.modulemap \
+  /Users/makuvex7/Documents/test/AppAuth-iOS/Source/AppAuthCore/OIDAuthorizationRequest.h \
+  /Users/makuvex7/Documents/test/AppAuth-iOS/Source/AppAuthCore/OIDExternalUserAgentRequest.h \
+  /Users/makuvex7/Documents/test/AppAuth-iOS/Source/AppAuthCore/OIDResponseTypes.h \
+  /Users/makuvex7/Documents/test/AppAuth-iOS/Source/AppAuthCore/OIDScopes.h \
+  /Users/makuvex7/Documents/test/AppAuth-iOS/Source/AppAuthCore/OIDAuthorizationResponse.h \
+  /Users/makuvex7/Documents/test/AppAuth-iOS/Source/AppAuthCore/OIDDefines.h \
+  /Users/makuvex7/Documents/test/AppAuth-iOS/Source/AppAuthCore/OIDEndSessionRequest.h \
+  /Users/makuvex7/Documents/test/AppAuth-iOS/Source/AppAuthCore/OIDEndSessionResponse.h \
+  /Users/makuvex7/Documents/test/AppAuth-iOS/Source/AppAuthCore/OIDErrorUtilities.h \
+  /Users/makuvex7/Documents/test/AppAuth-iOS/Source/AppAuthCore/OIDError.h \
+  /Users/makuvex7/Documents/test/AppAuth-iOS/Source/AppAuthCore/OIDExternalUserAgent.h \
+  /Users/makuvex7/Documents/test/AppAuth-iOS/Source/AppAuthCore/OIDExternalUserAgentSession.h \
+  /Users/makuvex7/Documents/test/AppAuth-iOS/Source/AppAuthCore/OIDIDToken.h \
+  /Users/makuvex7/Documents/test/AppAuth-iOS/Source/AppAuthCore/OIDRegistrationRequest.h \
+  /Users/makuvex7/Documents/test/AppAuth-iOS/Source/AppAuthCore/OIDRegistrationResponse.h \
+  /Users/makuvex7/Documents/test/AppAuth-iOS/Source/AppAuthCore/OIDServiceConfiguration.h \
+  /Users/makuvex7/Documents/test/AppAuth-iOS/Source/AppAuthCore/OIDServiceDiscovery.h \
+  /Users/makuvex7/Documents/test/AppAuth-iOS/Source/AppAuthCore/OIDTokenRequest.h \
+  /Users/makuvex7/Documents/test/AppAuth-iOS/Source/AppAuthCore/OIDGrantTypes.h \
+  /Users/makuvex7/Documents/test/AppAuth-iOS/Source/AppAuthCore/OIDTokenResponse.h \
+  /Users/makuvex7/Documents/test/AppAuth-iOS/Source/AppAuthCore/OIDURLQueryComponent.h \
+  /Users/makuvex7/Documents/test/AppAuth-iOS/Source/AppAuthCore/OIDURLSessionProvider.h
