@@ -1,0 +1,7 @@
+**/.DS_Store
+**/xcuserdata*
+**/buildtool/intermediate/*
+**/buildtool/*.pyc
+**/build/*
+**/.idea/*
+**/output/*
